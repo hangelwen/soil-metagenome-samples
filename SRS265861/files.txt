@@ -1,4 +1,3 @@
-fastq_ftp
 ftp.sra.ebi.ac.uk/vol1/fastq/SRR350/SRR350470/SRR350470_1.fastq.gz
 ftp.sra.ebi.ac.uk/vol1/fastq/SRR350/SRR350470/SRR350470_2.fastq.gz
 ftp.sra.ebi.ac.uk/vol1/fastq/SRR350/SRR350471/SRR350471_1.fastq.gz
